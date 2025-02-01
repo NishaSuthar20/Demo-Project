@@ -1,18 +1,11 @@
-
 body{
-    font-family: Arial, Helvetica, sans-serif;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-}
-
-h2 {
-    display: block;
-    font-size: 1.5em;
-    font-weight: bold;
+   display: block;
+   font-size: 2em;
+   font-weight: bold;
 }
 
 table {
@@ -31,7 +24,8 @@ table {
     background-color: #dddddd;
   }
 
-  .button {
+
+  button {
     padding: 8px 12px;
     text-decoration: none;
     color: #fff;
@@ -39,6 +33,6 @@ table {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin-top: 2rem;
 }
 
-    
